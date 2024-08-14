@@ -1,4 +1,4 @@
-This python program plays the magic tiles for you without a miss !
+This python program plays the magic piano tiles game for you without a miss !
 
 Run on maximize : https://lagged.com/en/g/magic-tiles
 
